@@ -1,4 +1,4 @@
-# RedditIdeology-Honours2021
+# RedditIdeology 2021
 Files for scraping and modeling reddit users' ideologies as a function of digital footprints.
 
 Any file in this repo that is not mentioned in the below list is obsolete and was not used in the final project.
